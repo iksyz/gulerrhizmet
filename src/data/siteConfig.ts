@@ -29,11 +29,11 @@ export const siteConfig = {
   tagline: "Diyarbakır 7/24 Nöbetçi Çilingir, Su Tesisatçısı & Kombi Servisi",
   description:
     "Diyarbakır genelinde 7/24 acil çilingir, kırmadan su kaçağı tespiti, tıkanıklık açma ve kombi servisi. Kayapınar, Bağlar, Yenişehir, Sur ve tüm semtlere 15-25 dakikada garantili adrese varış.",
-  url: "https://gulerhizmet.com.tr",
+  url: "https://www.gulerteknikhizmet.com.tr",
   phone: "0538 333 89 80",
   phoneRaw: "+905383338980",
   whatsappNumber: "905383338980",
-  email: "info@gulerhizmet.com.tr",
+  email: "info@gulerteknikhizmet.com.tr",
   esnafOdaNo: "Diyarbakır Esnaf ve Sanatkarlar Sicil No: 21-8492",
   address: {
     street: "Diclekent Bulvarı, Fırat Bulvarı & Urfa Yolu Kavşağı Mobil Usta Noktaları",
